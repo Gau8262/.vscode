@@ -51,5 +51,5 @@
             "url": "http://localhost:8080",
             "webRoot": "${workspaceFolder}"
 
-    ]
-pkg install c++
+    help
+    
